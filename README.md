@@ -26,5 +26,8 @@ Transit Trip Frequency
 
 ![](imgs/img_transit.png)
 
+Walking Network Density
 
-Still to come are measures of intersection and network density.
+![](imgs/img_edge.png)
+
+Still to come are measures of intersection density.
