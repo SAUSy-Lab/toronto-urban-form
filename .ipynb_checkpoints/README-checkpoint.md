@@ -8,6 +8,8 @@ Everything is constructed using PostGIS, python, and a few command line utilitie
 
 ## Summary of Urban Form Measures:
 
+Source data is linked to the hex grid via areal interpolation (for polygon data) or using a spatial join (for point data). See the python notebooks for details on how each measure was generated
+
 Population Density
 
 ![](imgs/img_population.png)
@@ -24,6 +26,5 @@ Transit Trip Frequency
 
 ![](imgs/img_transit.png)
 
-Source data is linked to the hex grid via areal interpolation (for polygon data) or using a spatial join (for point data). See the python notebooks for how the data was generated.
 
 Still to come are measures of intersection and network density.
