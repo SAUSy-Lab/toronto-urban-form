@@ -32,5 +32,5 @@ Walking Network Density
 
 Street Intersection Density
 
-![](imgs/img_intersectionss.png)
+![](imgs/img_intersections.png)
 
