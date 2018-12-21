@@ -30,4 +30,7 @@ Walking Network Density
 
 ![](imgs/img_edge.png)
 
-Still to come are measures of intersection density.
+Street Intersection Density
+
+![](imgs/img_intersectionss.png)
+
