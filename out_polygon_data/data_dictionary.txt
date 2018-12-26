@@ -1,5 +1,5 @@
 pop2016, 2016 population density (from census)
-emp2016, 2016 employment density (from censusd)
+emp2016, 2016 employment density (from census)
 business2016, 2016 business density (from Canadian business registry)
 int3way, number of 3-way intersections (from OSM)
 int4way, number of 4-way or more intersections (from OSM)
