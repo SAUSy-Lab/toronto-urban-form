@@ -12,7 +12,7 @@ Everything is constructed using PostGIS, python, and a few command line utilitie
 
 Source data is linked to the hex grid via areal interpolation (for polygon and linear data) or using a spatial join (for point data). See the python notebooks for details on how each measure was generated. The following are the measures generated thus far.
 
-`
+```
 pop2016, 2016 population density (from census)
 emp2016, 2016 employment density (from census)
 business2016, 2016 business density (from Canadian business registry)
@@ -20,7 +20,7 @@ int3way, number of 3-way intersections (from OSM)
 int4way, number of 4-way or more intersections (from OSM)
 transit_n_per_hour, number of transit trips per hour which serve bus stops in the area (from various GTFS)
 walk_edge_length, total length of the walking network (from OSM)
-`
+```
 
 Population Density
 
