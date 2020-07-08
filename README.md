@@ -16,10 +16,10 @@ Source data is linked to the hex grid via areal interpolation (for polygon and l
 pop2016, 2016 population density (from census)
 emp2016, 2016 employment density (from census)
 business2016, 2016 business density (from Canadian business registry)
-int3way, number of 3-way intersections (from OSM)
-int4way, number of 4-way or more intersections (from OSM)
-transit_n_per_hour, number of transit trips per hour which serve bus stops in the area (from various GTFS)
-walk_edge_length, total length of the walking network (from OSM)
+int3way, number of 3-way intersections (from OSM, December 2018)
+int4way, number of 4-way or more intersections (from OSM, December 2018)
+transit_n_per_hour, number of transit trips per hour which serve bus stops in the area (from various GTFS, December 2018)
+walk_edge_length, total length of the walking network (from OSM, December 2018)
 ```
 
 Population Density
