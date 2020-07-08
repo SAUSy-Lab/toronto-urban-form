@@ -2,7 +2,7 @@
 
 Generating various measures of urban form / built environment / walkability for the Toronto region (i.e. the Greater Golden Horseshoe) from open data sources (e.g. OpenStreetMap, Statistics Canada).
 
-Measures are linked to a hexagonal grid with an apothem of 100m (i.e. 200m between centroids) `output_hex_data`
+Measures are linked to a hexagonal grid with an apothem of 100m (i.e. 200m between centroids) `output_hex_data`. A GIS file of the grid can be downloaded from [here](https://www.dropbox.com/s/pg02pnjbvk2n4kc/hex_grid.zip?dl=0)
 
 From this grid, the data has also been interpolated to 2016 Dissemenation Areas (DA) and 2016 Traffic Analysis Zones (TAZ) `output_polygon_data`. 
 
